@@ -2,7 +2,7 @@ See<p align="center">
   <img src="assets/MF.png" alt="MF">
 </p>
 <h1 align="center">
-  <b>MF 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>MF 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 </b>
 </h1>
 <a href="https://youtube.com/@Mr.mk_vibes">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">

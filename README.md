@@ -1,5 +1,5 @@
 See<p align="center">
-  <img src="assets/MF.png" alt="Ajax Techz">
+  <img src="assets/MF.png" alt="MF">
 </p>
 <h1 align="center">
   <b>MF 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>

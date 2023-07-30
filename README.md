@@ -97,4 +97,4 @@ python3 bot.py
 ```
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [MR.MK](https://telegram.dog/AboutMrmk) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/mrshadowgram/) | [ɢɪᴛʜᴜʙ](GitHub.com/Mrmk001)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [MF Updates](https://t.me/+I6V_TokyqboxZGE1)</b>
+<b>ᴄʜᴀɴɴᴇʟ ›› [MF Updates](https://t.me/MFUpdatez)</b>
